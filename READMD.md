@@ -12,7 +12,7 @@
 
 ## How to create avikus python application?
 ```
-cookiecutter https://github.com/avikus-ai/avikus-flask-api-cookiecutter.git
+cookiecutter https://github.com/avikus-ai/avikus-python-async-web-framework-cookiecutter.git
 ```
 
 ## License
